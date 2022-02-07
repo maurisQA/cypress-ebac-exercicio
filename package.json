@@ -19,5 +19,8 @@
   "homepage": "https://github.com/maurisQA/cypress-ebac-exercicio#readme",
   "devDependencies": {
     "cypress": "^9.4.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
